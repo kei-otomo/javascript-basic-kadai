@@ -1,5 +1,5 @@
 const calcSquare = (argValue) => {
-    let returnValue = argValue ** 100;
+    let returnValue = argValue ** 2;
     return returnValue;
 }
 
